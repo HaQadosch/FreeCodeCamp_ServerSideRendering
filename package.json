@@ -1,0 +1,24 @@
+{
+  "name": "freecodecamp_serversiderendering",
+  "version": "1.0.0",
+  "description": "https://www.freecodecamp.org/news/demystifying-reacts-server-side-render-de335d408fe4/",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaQadosch/FreeCodeCamp_ServerSideRendering.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaQadosch/FreeCodeCamp_ServerSideRendering/issues"
+  },
+  "homepage": "https://github.com/HaQadosch/FreeCodeCamp_ServerSideRendering#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
